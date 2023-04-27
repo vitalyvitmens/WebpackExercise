@@ -1,0 +1,16 @@
+{
+  "name": "webpacke",
+  "version": "1.0.0",
+  "description": "webpacke",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Vitaly Menshikov",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
